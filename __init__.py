@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Box Design Tool",
-    "author": "Ha Nguyen",
+    "author": "Lại Ngứa Tay",
     "version": (1, 0),
     "blender": (4, 0, 0),
     "location": "View3D > UI",
